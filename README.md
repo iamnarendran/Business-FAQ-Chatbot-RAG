@@ -37,8 +37,10 @@ A simple Retrieval-Augmented Generation (RAG) chatbot that answers questions bas
 
 ## 🔍 Example Prompt
 
-- Prompt: `Do you provide chatbot solutions & Can you build domain-specific LLM applications`
+- Prompt: `Do you provide chatbot solutions & Can you build domain-specific LLM applications?`
 
 - Response: `💬 Answer: Yes, we provide intelligent chatbot solutions and can build domain-specific LLM applications tailored for retail, HR, finance, and more. I'm a chatbot powered by Deepseek AI.`
 
+- Prompt: `How many workers in your office?`
+- Response: `💬 Answer: I don't have what you asked [how many workers in your office], please feel free to contact our email. I'm a chatbot powered by Deepseek AI.` 
 ---
