@@ -32,6 +32,7 @@ A simple Retrieval-Augmented Generation (RAG) chatbot that answers questions bas
 - 🧾 Embedding: `sentence-transformers`
 - 📦 Vector Store: `chromadb`
 - ☁️ Runtime: Google Colab
+- Got free API from `https://www.a4f.co/`, which is a third-party, but using Openrouter (No issues)
 
 ---
 
